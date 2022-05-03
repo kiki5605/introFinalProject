@@ -1,7 +1,11 @@
-html, body {
-  margin: 0;
-  padding: 0;
+body {
+  color:#FCCBFA ;
+  background-color: black;
 }
-canvas {
-  display: block;
+h3 {
+  color:#A0FFDE
+}
+
+p{
+  color:#D1AEFF
 }
