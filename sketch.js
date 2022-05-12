@@ -1,7 +1,16 @@
-function setup() {
-  createCanvas(400, 400);
-}
-
-function draw() {
-  background(220);
-}
+const trueBtn1 = document.querySelector("button#true1");
+const falseBtn1 = document.querySelector("button#false1");
+const trueBtn2 = document.querySelector("button#true2");
+const falseBtn2 = document.querySelector("button#false2");
+const trueBtn3 = document.querySelector("button#true3");
+const falseBtn3 = document.querySelector("button#false3");
+const trueBtn4 = document.querySelector("button#true4");
+const falseBtn4 = document.querySelector("button#false4");
+const trueBtn5 = document.querySelector("button#true5");
+const falseBtn5 = document.querySelector("button#false5");
+const trueBtn6 = document.querySelector("button#true6");
+const falseBtn6 = document.querySelector("button#false6");
+const trueBtn7 = document.querySelector("button#true7");
+const falseBtn7 = document.querySelector("button#false7");
+const coinsText = document.querySelector("span#coins");
+let coins = 0;
